@@ -52,6 +52,6 @@ public class Variables {
         //arrays in Java are inflexible. Once the datatype and the size are defined, it cannot be changed. You can change the value of the
         //primitive data types for storing number integers [int], decimal numbers [double], Booleans [boolean] and characters [char]
         //float and short are rarely used. Only in the environments with limited memory
-        //position/pořadí matters in Java - my private note, needs consultation.
+        //position/pořadí matters in Java - my private note, needs consultation.--Check variable scope
     }
 }
